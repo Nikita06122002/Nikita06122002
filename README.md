@@ -38,3 +38,23 @@
 ![UIKit](https://github.com/Nikita06122002/Nikita06122002/blob/main/UIKitEng.pdf)
 
 ![SwiftBook](https://github.com/Nikita06122002/Nikita06122002/blob/main/UIKitEng.pdf)
+
+****
+
+****
+# **Trophy**
+
+[![Typing SVG](https://github-profile-trophy.vercel.app/?username=Nikita06122002)](https://github.com/ryo-ma/github-profile-tripgy)
+
+****
+# Language
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita06122002)](https://github.com/Nikita06122002/github-readme-stats)
+
+****
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikita06122002&theme=solarized_dark)
+
+****
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikita06122002&theme=solarized_dark)
