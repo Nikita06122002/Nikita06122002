@@ -1,4 +1,4 @@
- # **Hello, I'm Nikita.**
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F7A87D&center=true&random=false&width=435&lines=Hello%2C+I'm+Nikita)](https://git.io/typing-svg)
 
 ## Hi everyone, my name is Nikita! I began my journey in development in April 2023, focusing on iOS mobile app development. Since then, I have accumulated experience by working in a team on various projects and exploring a multitude of technologies. My goal is to continue growing as a specialist in mobile development, learning new approaches and technologies.
 ****
