@@ -33,11 +33,11 @@
 ****
 # Mini-courses
 
-![Collection/TableView](https://github.com/Nikita06122002/Nikita06122002/blob/main/Table%3ACollectionView%20ENG.pdf)
+![Collection/TableView](https://github.com/Nikita06122002/Nikita06122002/blob/main/Table%3ACollectionView%20ENG_page-0001.jpg)
 
-![UIKit](https://github.com/Nikita06122002/Nikita06122002/blob/main/UIKitEng.pdf)
+![UIKit](https://github.com/Nikita06122002/Nikita06122002/blob/main/UIKitEng_page-0001.jpg)
 
-![SwiftBook](https://github.com/Nikita06122002/Nikita06122002/blob/main/UIKitEng.pdf)
+![SwiftBook](https://github.com/Nikita06122002/Nikita06122002/blob/main/Свифтбук1EN_page-0001.jpg)
 
 ****
 
