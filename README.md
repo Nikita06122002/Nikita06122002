@@ -7,7 +7,8 @@
  -   OOP
  -   UIKit
  -   VC, MVP
- -   SOLID, паттерны проектирования
+ -   SOLID
+ -   Design pattern
  -   CoreData, UserDefaults, Realm
  -   Dependency Injection
  -   Multithreading, ARC
