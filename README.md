@@ -29,7 +29,7 @@
 
 [Rainbow \[MVC, UIKit, UserDefaults\]](https://github.com/Nikita06122002/Rainbow)
 
-[BoolStore \[MVP, UIKit, URLSession, CoreData\]](https://github.com/U-ggg/BookStore)
+[BookStore \[MVP, UIKit, URLSession, CoreData\]](https://github.com/U-ggg/BookStore)
 
 ****
 # Mini-courses
