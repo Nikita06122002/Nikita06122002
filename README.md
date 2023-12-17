@@ -6,7 +6,7 @@
  # Stack
  -   OOP
  -   UIKit
- -   VC, MVP
+ -   MVC, MVP
  -   SOLID
  -   Design pattern
  -   CoreData, UserDefaults, Realm
