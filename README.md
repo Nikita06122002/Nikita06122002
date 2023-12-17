@@ -11,7 +11,7 @@
  -   Design pattern
  -   CoreData, UserDefaults, Realm
  -   Dependency Injection
- -   Multithreading, ARC
+ -   GCD, ARC
  -   URLSession
  -   AutoLayout/SnapKit
  -   JSON
