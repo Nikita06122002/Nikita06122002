@@ -32,11 +32,9 @@
 [BookStore \[MVP, UIKit, URLSession, CoreData\]](https://github.com/Nikita06122002/BookStore)
 
 ****
-# Mini-courses
+# Certificates
 
-![Collection/TableView](https://github.com/Nikita06122002/Nikita06122002/blob/main/Table%3ACollectionView%20ENG_page-0001.jpg)
-
-![UIKit](https://github.com/Nikita06122002/Nikita06122002/blob/main/UIKitEng_page-0001.jpg)
+![SWIFT MARAPHON](https://github.com/Nikita06122002/Nikita06122002/blob/main/IMG_2352.jpeg)
 
 ![SwiftBook](https://github.com/Nikita06122002/Nikita06122002/blob/main/Свифтбук1EN_page-0001.jpg)
 
