@@ -35,10 +35,12 @@ Hi everyone, my name is Nikita! I began my journey in development in April 2023,
 
 [BookStore \[MVP, UIKit, URLSession, CoreData\]](https://github.com/Nikita06122002/BookStore)
 
+[Movie-Today \[MVP, UIKit, URLSession, CoreData, FireBase, SDWebImage\]](https://github.com/Nikita06122002/Movie-Today)
+
 ****
 # Certificates
 
-![SWIFT MARAPHON](https://github.com/Nikita06122002/Nikita06122002/blob/main/IMG_2352.jpeg)
+![SWIFT MARAPHON X](https://github.com/Nikita06122002/Nikita06122002/blob/main/IMG_2352.jpeg)
 
 ![SwiftBook](https://github.com/Nikita06122002/Nikita06122002/blob/main/Свифтбук1EN_page-0001.jpg)
 
