@@ -15,6 +15,7 @@ Top 4 Swift Maraphon Х Students
  -   SOLID
  -   Design pattern
  -   CoreData, UserDefaults, Realm
+ -   FireBase
  -   Dependency Injection
  -   GCD, ARC
  -   URLSession
