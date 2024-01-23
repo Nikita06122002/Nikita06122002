@@ -1,11 +1,12 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F7A87D&center=true&random=false&width=435&lines=Hello%2C+I'm+Nikita)](https://git.io/typing-svg)
 
-## 
-Top 4 Swift Maraphon Х Students
 
+Hi everyone, I'm Nikita, an enthusiastic iOS Developer specialized in Swift. I've been involved in several projects where I contributed to the development of user-friendly and efficient mobile apps. My strengths include understanding user requirements, writing clean and maintainable code, and implementing features that enhance app performance. I'm always eager to learn new techniques and apply them to my work, aiming to create apps that are both innovative and reliable.
 
-Hi everyone, my name is Nikita! I began my journey in development in April 2023, focusing on iOS mobile app development. Since then, I have accumulated experience by working in a team on various projects and exploring a multitude of technologies. My goal is to continue growing as a specialist in mobile development, learning new approaches and technologies.
 ****
+
+##
+Top 4 Swift Maraphon Х Students
  
  # Stack
  -   OOP
