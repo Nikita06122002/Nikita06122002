@@ -11,7 +11,7 @@ Top 4 Swift Maraphon Х Students
  # Stack
  -   OOP
  -   UIKit
- -   MVC, MVP
+ -   MVC, MVP, MVVM
  -   SOLID
  -   Design pattern
  -   CoreData, UserDefaults, Realm
