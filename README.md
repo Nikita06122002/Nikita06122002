@@ -18,7 +18,7 @@ Top 4 Swift Maraphon Х Students
  -   CoreData, UserDefaults, Realm
  -   FireBase
  -   Dependency Injection
- -   GCD, ARC
+ -   GCD, ARC, Aync/Await
  -   URLSession
  -   AutoLayout/SnapKit
  -   JSON
