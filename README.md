@@ -14,14 +14,16 @@ Top 4 Swift Maraphon Х Students
  -   SwiftUI
  -   MVC, MVP, MVVM
  -   SOLID
- -   Design pattern
+ -   Design pattern, Fabric, ServiceLocator
  -   CoreData, UserDefaults, Realm
  -   FireBase
  -   Dependency Injection
  -   GCD, ARC, Aync/Await
  -   URLSession
+ -   CoreFoundation
  -   AutoLayout/SnapKit
  -   JSON
+ -   2FA
 
 ****
 # My Projects
