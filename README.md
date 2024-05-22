@@ -10,14 +10,14 @@ Top 4 Swift Maraphon Х Students
  
  # Stack
  -   OOP
- -   UIKit
- -   SwiftUI
+ -   UIKit, SwiftUI
  -   MVC, MVP, MVVM
  -   SOLID
  -   Design pattern, Fabric, ServiceLocator
  -   CoreData, UserDefaults, Realm
  -   FireBase
  -   Dependency Injection
+ -   Combine
  -   GCD, ARC, Aync/Await
  -   URLSession
  -   CoreFoundation
