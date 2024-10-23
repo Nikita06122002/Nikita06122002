@@ -11,10 +11,10 @@ Top 4 Swift Maraphon Х Students
  # Stack
  -   OOP
  -   UIKit, SwiftUI
- -   MVC, MVP, MVVM
+ -   MVC, MVP, MVVM, TCA, VIPER
  -   SOLID
  -   Design pattern, Fabric, ServiceLocator
- -   CoreData, UserDefaults, Realm
+ -   CoreData, UserDefaults, Realm, Keychain, SwiftData
  -   FireBase
  -   Dependency Injection
  -   Combine
@@ -24,30 +24,20 @@ Top 4 Swift Maraphon Х Students
  -   AutoLayout/SnapKit
  -   JSON
  -   2FA
+ -   PostgreSQL
 
 ****
-# My Projects
 
-[Learn-Words \[MVC, UIKit, Realm, URLSession\]](https://github.com/Nikita06122002/LearnWords-Nikita/)
+# My libraries
 
-[Pomodoro \[MVC, UIKit, Realm\]](https://github.com/Nikita06122002/Pomodoro)
+[KeychainAdapter \[Security\]](https://github.com/Nikita06122002/KeychainAdapter)
 
-[Pexam \[MVC, UIKit, Realm\]](https://github.com/Nikita06122002/Pexam)
-
-# Team Projects
-
-[Rainbow \[MVC, UIKit, UserDefaults\]](https://github.com/Nikita06122002/Rainbow)
-
-[BookStore \[MVP, UIKit, URLSession, CoreData\]](https://github.com/Nikita06122002/BookStore)
-
-[Movie-Today \[MVP, UIKit, URLSession, CoreData, UserDefaults, FireBase, SDWebImage\]](https://github.com/Nikita06122002/Movie-Today)
+[SwiftDataHelher \[TCA, SwiftData\]](https://github.com/Nikita06122002/SwiftDataHelper)
 
 ****
 # Certificates
 
 ![SWIFT MARAPHON X](https://github.com/Nikita06122002/Nikita06122002/blob/main/IMG_2352.jpeg)
-
-![SwiftBook](https://github.com/Nikita06122002/Nikita06122002/blob/main/Свифтбук1EN_page-0001.jpg)
 
 ****
 
