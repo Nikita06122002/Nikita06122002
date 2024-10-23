@@ -32,7 +32,7 @@ Top 4 Swift Maraphon Х Students
 
 [KeychainAdapter \[Security\]](https://github.com/Nikita06122002/KeychainAdapter)
 
-[SwiftDataHelher \[TCA, SwiftData\]](https://github.com/Nikita06122002/SwiftDataHelper)
+[SwiftDataHelper \[TCA, SwiftData\]](https://github.com/Nikita06122002/SwiftDataHelper)
 
 ****
 # Certificates
