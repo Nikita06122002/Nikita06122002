@@ -4,9 +4,6 @@
 Hi everyone, I'm Nikita, an enthusiastic iOS Developer specialized in Swift. I've been involved in several projects where I contributed to the development of user-friendly and efficient mobile apps. My strengths include understanding user requirements, writing clean and maintainable code, and implementing features that enhance app performance. I'm always eager to learn new techniques and apply them to my work, aiming to create apps that are both innovative and reliable.
 
 ****
-
-##
-Top 4 Swift Maraphon Х Students
  
  # Stack
  -   OOP
@@ -33,11 +30,6 @@ Top 4 Swift Maraphon Х Students
 [KeychainAdapter \[Security\]](https://github.com/Nikita06122002/KeychainAdapter)
 
 [SwiftDataHelper \[TCA, SwiftData\]](https://github.com/Nikita06122002/SwiftDataHelper)
-
-****
-# Certificates
-
-![SWIFT MARAPHON X](https://github.com/Nikita06122002/Nikita06122002/blob/main/IMG_2352.jpeg)
 
 ****
 
